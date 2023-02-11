@@ -7,3 +7,4 @@ Estoy casado con Patricia.
 
 06-02-2023 From here on I'm going to work with my Dell as another user
 
+11-02-2023 From here on I'm no longer a collaborator. But I did forked this repositorie and I will contribute as an outsider.
